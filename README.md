@@ -1,0 +1,2 @@
+# arrayFunctionsReduce
+practice with .reduce
